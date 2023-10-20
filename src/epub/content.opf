@@ -38,7 +38,6 @@
 		<meta property="se:url.vcs.github">https://github.com/libqu/xianhui-yang_din-xi-gu-er-yuan-ji-shi</meta>
 		<dc:creator id="author">杨显惠</dc:creator>
 		<meta property="file-as" refines="#author">Yang, Xianhui</meta>
-		<meta property="se:name.person.full-name" refines="#author">杨显惠</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="producer-1">子乌书简</dc:contributor>
