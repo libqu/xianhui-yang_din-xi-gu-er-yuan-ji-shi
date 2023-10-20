@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
-	<title>The titlepage for the Standard Ebooks edition of Din XI Gu Er Yuan Ji Shi, by Xianhui Yang</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 420">
+	<title>The titlepage for Din Xi Gu Er Yuan Ji Shi</title>
 	<style type="text/css">
 		text{
-			font-family: "League Spartan";
+			font-family: "Source Han Sans HC";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
 
 		.title{
-			font-size: 93.56725311px;
+			font-size: 150px;
 		}
 
 		.author{
-			font-size: 70.17543793px;
+			font-size: 105px;
 		}
+
 	</style>
-	<text class="title" x="700" y="130">DIN XI</text>
-	<text class="title" x="700" y="230">GU ER YUAN JI SHI</text>
-	<text class="author" x="700" y="390">XIANHUI YANG</text>
+	<text class="title" x="700" y="160">定西孤儿院纪事</text>
+	<text class="author" x="700" y="360">杨显惠</text>
 </svg>
