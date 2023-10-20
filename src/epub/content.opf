@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="zh-Hans">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://github.com/libqu/xianhui-yang_din-xi-gu-er-yuan-ji-shi</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-10-20T13:27:20Z</dc:date>
+		<meta property="dcterms:modified">2023-10-20T13:27:20Z</meta>
 		<dc:publisher>花城出版社</dc:publisher>
 		<link href="http://www.idpf.org/epub/a11y/accessibility-20170105.html#wcag-aa" rel="dcterms:conformsTo"/>
 		<meta property="schema:accessMode">textual</meta>
