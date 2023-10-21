@@ -8,21 +8,21 @@
 
 		text{
 			fill: #fff;
-			font-family: "League Spartan";
+			font-family: "Source Han Sans HC";
 			letter-spacing: 5px;
 			text-anchor: middle;
 		}
 
 		.title{
-			font-size: 93.56725311px;
+			font-size: 100px;
 		}
 
 		.author{
-			font-size: 46.7840004px;
+			font-size: 60px;
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1775">定西孤儿院纪事</text>
-	<text class="author" x="700" y="1975">杨显惠</text>
+	<text class="title" x="700" y="1785">定西孤儿院纪事</text>
+	<text class="author" x="700" y="1960">杨显惠</text>
 </svg>
