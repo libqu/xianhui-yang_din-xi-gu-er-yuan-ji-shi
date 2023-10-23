@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="zh-Hans">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="zh-Hant">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://github.com/libqu/xianhui-yang_din-xi-gu-er-yuan-ji-shi</dc:identifier>
 		<dc:date>2023-10-20T13:27:20Z</dc:date>
@@ -15,8 +15,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">定西孤儿院纪事</dc:title>
-		<meta property="file-as" refines="#title">定西孤儿院纪事</meta>
+		<dc:title id="title">定西孤兒院紀事</dc:title>
+		<meta property="file-as" refines="#title">定西孤兒院紀事</meta>
 		<dc:subject id="subject-1">China</dc:subject>
 		<dc:subject id="subject-2">history</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -25,9 +25,9 @@
 		<meta property="term" refines="#subject-2">sh99005024</meta>
 		<meta property="se:subject">China</meta>
 		<meta property="se:subject">history</meta>
-		<dc:description id="description">「受苦人的绝境」，一段二十世纪六十年代的历史。</dc:description>
+		<dc:description id="description">「受苦人的絕境」，一段二十世紀六十年代的歷史。</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			“定西专区”是1960年左右的“大饥荒”在甘肃省内的一个“重灾区”。作者在忠实史料事实和当事人陈述事实的基础上，创作出一个个具有高度典型性和独特性的作品。完全是白描的手法，纪实性的语言，平实的语调，将一幕幕饥饿与死亡的惨烈情境撕裂在人们眼前。
+			“定西專區”是1960年左右的“大饑荒”在甘肅省內的一個“重災區”。作者在忠實史料事實和當事人陳述事實的基礎上，創作出一個個具有高度典型性和獨特性的作品。完全是白描的手法，紀實性的語言，平實的語調，將一幕幕飢餓與死亡的慘烈情境撕裂在人們眼前。
 		</meta>
 		<dc:language>zh-Hans</dc:language>
 		<dc:source>https://github.com/programthink/books</dc:source>
@@ -36,11 +36,11 @@
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://www.goodreads.com/book/show/6289094</meta>
 		<meta property="se:url.vcs.github">https://github.com/libqu/xianhui-yang_din-xi-gu-er-yuan-ji-shi</meta>
-		<dc:creator id="author">杨显惠</dc:creator>
+		<dc:creator id="author">楊顯惠</dc:creator>
 		<meta property="file-as" refines="#author">Yang, Xianhui</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://zh.wikipedia.org/wiki/%E6%9D%A8%E6%98%BE%E6%83%A0</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="producer-1">子乌书简</dc:contributor>
+		<dc:contributor id="producer-1">子烏書簡</dc:contributor>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 	</metadata>
 	<manifest>
